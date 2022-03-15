@@ -1,0 +1,20 @@
+body {
+  background-color: #eff1f5;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.form {
+  background-color: #ffffff;
+  -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+          box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  padding: 30px;
+  padding-bottom: 50px;
+  border-radius: 8px;
+}
+
+.container {
+  margin-top: 150px;
+}
